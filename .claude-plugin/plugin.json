@@ -1,0 +1,8 @@
+{
+  "name": "autocad",
+  "version": "1.0.0",
+  "description": "Create, read and edit AutoCAD drawings (DXF/DWG) and run AutoCAD command scripts from Claude.",
+  "author": { "name": "Daniel Klein" },
+  "license": "MIT",
+  "keywords": ["autocad", "cad", "dxf", "dwg", "ezdxf"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autocad-skill",
+  "owner": { "name": "Daniel Klein" },
+  "plugins": [
+    {
+      "name": "autocad",
+      "source": "./",
+      "description": "Create, read and edit AutoCAD drawings (DXF/DWG) and run AutoCAD command scripts from Claude."
+    }
+  ]
+}
